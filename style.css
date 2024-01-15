@@ -1,0 +1,7 @@
+.nav-one{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:12px;
+    background:#efefef;
+}
