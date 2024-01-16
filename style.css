@@ -32,4 +32,10 @@ nav{
 
     
     }
+    .btn{
+        color: black;
+        background-color: blue;
+        border-color: blue;
+        margin-top:100px;
+    }
     
